@@ -1,0 +1,84 @@
+[
+  {
+    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1532580/security-consultant",
+    "job_title": "Security Consultant",
+    "company": "Capgemini Danmark A/S",
+    "location": "Vallensbæk Strand",
+    "contacts": [
+      {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "error": false
+      }
+    ]
+  },
+  {
+    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1541150/it-supporter-skab-vaerdi-for-den-groenne-omstilling",
+    "job_title": "IT-supporter – skab værdi for den grønne omstilling",
+    "company": "Jobindex A/S  søger for Cubs A/S",
+    "location": "Greve",
+    "contacts": [
+      {
+        "name": "Jens Frederik Wang",
+        "title": "senior IT-rekrutteringskonsulent",
+        "email": null,
+        "phone": "+45 7245 9074",
+        "error": false
+      }
+    ]
+  },
+  {
+    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1532432/assistant-master-data-specialist",
+    "job_title": "Assistant Master Data Specialist",
+    "company": "MAN Energy Solutions",
+    "location": "Frederikshavn",
+    "contacts": [
+      {
+        "name": "Lea Lassen",
+        "title": "Department Manager",
+        "email": null,
+        "phone": "24 83 85 66",
+        "error": false
+      },
+      {
+        "name": "Lea Lassen",
+        "title": "Department Manager",
+        "email": null,
+        "phone": "24 83 85 66",
+        "error": false
+      }
+    ]
+  },
+  {
+    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1532441/senior-software-developer-and-architect",
+    "job_title": "Senior Software Developer and Architect",
+    "company": "DHI A/S",
+    "location": "Hørsholm",
+    "contacts": [
+      {
+        "name": "Lasse Kelman Christensen",
+        "title": "Head of User Interfaces and Backend",
+        "email": "lac@dhigroup.com",
+        "phone": null,
+        "error": false
+      }
+    ]
+  },
+  {
+    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1532502/structured-system-and-solution-architect",
+    "job_title": "Structured System and Solution Architect",
+    "company": "Bloom  recruiting on behalf of Secomea A/S",
+    "location": "Herlev",
+    "contacts": [
+      {
+        "name": "Sara Juhl",
+        "title": null,
+        "email": "sj@bloom.dk",
+        "phone": "+45 2086 0865",
+        "error": false
+      }
+    ]
+  }
+]
