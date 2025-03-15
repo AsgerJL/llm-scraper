@@ -12,7 +12,7 @@ from crawl4ai import RateLimiter, CrawlerMonitor, DisplayMode
 
 load_dotenv()
 
-CSV_FILE = "job_contacts.csv"
+CSV_FILE = "scraped-data/job_contacts.csv"
 
 # ---------- Data Model ----------
 

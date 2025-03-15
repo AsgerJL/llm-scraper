@@ -92,7 +92,7 @@ async def main():
         if "location" in job:
             job["location"] = job["location"].strip()
 
-    with open("job_urls.json", "w", encoding="utf-8") as f:
+    with open("scraped-data/job_urls.json", "w", encoding="utf-8") as f:
         json.dump(jobs, f, indent=2, ensure_ascii=False)
 
     print(f"Scraped {len(jobs)} job listings across multiple pages.")
