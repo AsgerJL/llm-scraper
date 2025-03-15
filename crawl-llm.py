@@ -12,7 +12,7 @@ from crawl4ai import RateLimiter, CrawlerMonitor, DisplayMode
 
 load_dotenv()
 
-CSV_FILE = "job_contacts.csv"
+CSV_FILE = "scraped-data/job_contacts.csv"
 
 # ---------- Data Model ----------
 
@@ -144,7 +144,7 @@ async def extract_job_contacts(jobs):
     return job_crawler.process_results(results, url_to_job_mapping)
 
 async def main():
-    with open("job_urls.json", "r", encoding="utf-8") as f:
+    with open("scraped-data/job_urls.json", "r", encoding="utf-8") as f:
         jobs = json.load(f)
 
     new_job_details = await extract_job_contacts(jobs)
