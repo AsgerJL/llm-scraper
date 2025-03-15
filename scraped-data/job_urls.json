@@ -1,5 +1,47 @@
 [
   {
+    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1539749/data-engineer",
+    "job_title": "Data Engineer",
+    "company": "GPV",
+    "location": "Vejle"
+  },
+  {
+    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1539628/senior-net-developer",
+    "job_title": "Senior .NET Developer",
+    "company": "KMD A/S",
+    "location": "Ballerup"
+  },
+  {
+    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1539581/it-software-developer",
+    "job_title": "IT Software Developer",
+    "company": "BankInvest",
+    "location": "København K"
+  },
+  {
+    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1548166/afdelingschef-til-ai-data",
+    "job_title": "Afdelingschef til AI & Data",
+    "company": "Akademikernes A-kasse",
+    "location": "København V"
+  },
+  {
+    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1547990/it-systemadministrator-for-dataplatform-inden-for-den-groenne-omstilling-dtu-wind",
+    "job_title": "IT-systemadministrator for dataplatform inden for den grønne omstilling – DTU Wind",
+    "company": "DTU, Danmarks Tekniske Universitet",
+    "location": "Kongens Lyngby"
+  },
+  {
+    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1547927/netvaerksspecialist-til-ok-amba",
+    "job_title": "Netværksspecialist til OK a.m.b.a.",
+    "company": "Bloom  søger for OK a.m.b.a.",
+    "location": "Viby J"
+  },
+  {
+    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1547869/product-owner",
+    "job_title": "Product Owner",
+    "company": "Visma DataLøn og ProLøn",
+    "location": "København V og mulighed for hjemmearbejde"
+  },
+  {
     "detail_url": "https://www.it-jobbank.dk/jobannonce/h1547837/student-employee-for-marketing-branding",
     "job_title": "Student employee for Marketing & Branding",
     "company": "Danske Commodities A/S",
@@ -814,12 +856,6 @@
     "location": "Ballerup"
   },
   {
-    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1543161/er-du-vores-nye-it-projektleder",
-    "job_title": "Er du vores nye IT-projektleder?",
-    "company": "Københavns Erhvervsakademi",
-    "location": "København N"
-  },
-  {
     "detail_url": "https://www.it-jobbank.dk/jobannonce/h1543103/junior-product-design-student-assistant",
     "job_title": "Junior Product Design Student Assistant",
     "company": "Monthio ApS",
@@ -1264,12 +1300,6 @@
     "location": "Bagsværd"
   },
   {
-    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1540052/senior-android-udvikler",
-    "job_title": "Senior Android-udvikler",
-    "company": "Clever A/S",
-    "location": "København SV"
-  },
-  {
     "detail_url": "https://www.it-jobbank.dk/jobannonce/h1539955/serviceminded-it-supporter-med-specialisering-i-microsoft-365",
     "job_title": "Serviceminded IT-supporter med specialisering i Microsoft 365",
     "company": "AkademikerPension",
@@ -1312,24 +1342,6 @@
     "location": "Aarhus N"
   },
   {
-    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1539749/data-engineer",
-    "job_title": "Data Engineer",
-    "company": "GPV",
-    "location": "Vejle"
-  },
-  {
-    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1539628/senior-net-developer",
-    "job_title": "Senior .NET Developer",
-    "company": "KMD A/S",
-    "location": "Ballerup"
-  },
-  {
-    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1539581/it-software-developer",
-    "job_title": "IT Software Developer",
-    "company": "BankInvest",
-    "location": "København K"
-  },
-  {
     "detail_url": "https://www.it-jobbank.dk/jobannonce/h1539533/qa-patch-manager-til-central-rolle-i-digital-robusthed-og-sikkerhed",
     "job_title": "QA/Patch Manager til central rolle i Digital Robusthed og Sikkerhed",
     "company": "Jyske Bank",
@@ -1360,27 +1372,9 @@
     "location": "Køge"
   },
   {
-    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1539333/medarbejder-til-sia-software",
-    "job_title": "Medarbejder til SIA Software",
-    "company": "Statens IT",
-    "location": "Ballerup eller Aarhus C"
-  },
-  {
     "detail_url": "https://www.it-jobbank.dk/jobannonce/h1539078/graduate-it-udvikler-til-selvbetjening-bolig",
     "job_title": "Graduate, IT-udvikler til Selvbetjening Bolig",
     "company": "Jyske Bank",
     "location": "København V"
-  },
-  {
-    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1530361/erfaren-product-manager-til-vigtige-cybersikkerhedsloesninger",
-    "job_title": "Erfaren Product Manager til vigtige cybersikkerhedsløsninger",
-    "company": "Bloom  søger for Arbit Cyber Defence Systems ApS",
-    "location": "Hvidovre"
-  },
-  {
-    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1530243/kompetenceleder-for-platform-engineering-til-tech-enabling-i-tv-2",
-    "job_title": "Kompetenceleder for Platform engineering til Tech Enabling i TV 2",
-    "company": "TV2",
-    "location": "Odense C"
   }
 ]
