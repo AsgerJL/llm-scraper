@@ -1,0 +1,4 @@
+asyncio
+pydantic
+python-dotenv
+crawl4ai
