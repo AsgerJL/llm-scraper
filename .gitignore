@@ -1,3 +1,4 @@
 .DS_Store
 .env
 job_contacts.csv
+job_urls.json

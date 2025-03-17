@@ -1,5 +1,11 @@
 [
   {
+    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1540112/ux-ui-designer-til-digitale-produkt-teams",
+    "job_title": "UX/UI Designer til digitale produkt teams",
+    "company": "SEGES Innovation",
+    "location": "Aarhus N"
+  },
+  {
     "detail_url": "https://www.it-jobbank.dk/jobannonce/h1539749/data-engineer",
     "job_title": "Data Engineer",
     "company": "GPV",
@@ -563,12 +569,6 @@
     "location": "Aarhus N"
   },
   {
-    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1545022/underviser-til-data-og-it-uddannelsen-bliv-en-del-af-zbc-i-ringsted",
-    "job_title": "Underviser til Data- og IT-uddannelsen – Bliv en del af ZBC i Ringsted",
-    "company": "Zealand Business College",
-    "location": "Ringsted"
-  },
-  {
     "detail_url": "https://www.it-jobbank.dk/jobannonce/h1544999/product-owner",
     "job_title": "Product Owner",
     "company": "KMD A/S",
@@ -737,12 +737,6 @@
     "location": "Ballerup"
   },
   {
-    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1544170/senior-data-warehouse-specialist",
-    "job_title": "Senior Data Warehouse Specialist",
-    "company": "PensionDanmark",
-    "location": "København Ø"
-  },
-  {
     "detail_url": "https://www.it-jobbank.dk/jobannonce/h1544236/studiejob-som-developer",
     "job_title": "Studiejob som Developer",
     "company": "Immeo",
@@ -779,12 +773,6 @@
     "location": "Odense C"
   },
   {
-    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1543933/it-drift-specialist",
-    "job_title": "IT Drift-specialist",
-    "company": "Sydbank",
-    "location": "Aabenraa"
-  },
-  {
     "detail_url": "https://www.it-jobbank.dk/jobannonce/h1543925/vil-du-vaere-med-til-at-sikre-stabile-og-fremtidssikrede-it-loesninger-til-hospitalerne-i-region-midtjylland",
     "job_title": "Vil du være med til at sikre stabile og fremtidssikrede It-løsninger til hospitalerne i Region Midtjylland?",
     "company": "Region Midtjylland",
@@ -809,12 +797,6 @@
     "location": "Roskilde"
   },
   {
-    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1543714/it-koordinator-til-udviklingsenheden",
-    "job_title": "IT-koordinator til Udviklingsenheden",
-    "company": "Banedanmark",
-    "location": "København V"
-  },
-  {
     "detail_url": "https://www.it-jobbank.dk/jobannonce/h1543648/leder-af-it",
     "job_title": "Leder af IT",
     "company": "Recruit IT ApS  søger for VEKS",
@@ -836,12 +818,6 @@
     "detail_url": "https://www.it-jobbank.dk/jobannonce/h1534895/dataspecialist-soeges-hybridarbejde",
     "job_title": "Dataspecialist søges (hybridarbejde)",
     "company": "Sahva A/S"
-  },
-  {
-    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1543384/data-operations-engineer-til-data-operations",
-    "job_title": "Data Operations Engineer til Data Operations",
-    "company": "LB Forsikring",
-    "location": "København Ø"
   },
   {
     "detail_url": "https://www.it-jobbank.dk/jobannonce/h1543304/salgskonsulent",
@@ -910,12 +886,6 @@
     "location": "Aarhus C"
   },
   {
-    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1542807/danske-spil-soeger-en-systemadministrator-der-holder-systemerne-stabile-og-brugerne-tilfredse",
-    "job_title": "Danske Spil søger en systemadministrator, der holder systemerne stabile og brugerne tilfredse",
-    "company": "Danske Spil A/S",
-    "location": "Brøndby"
-  },
-  {
     "detail_url": "https://www.it-jobbank.dk/jobannonce/h1542792/intelligent-robotic-process-automation-developer",
     "job_title": "Intelligent Robotic Process Automation Developer",
     "company": "MAN Energy Solutions",
@@ -940,22 +910,10 @@
     "location": "Kolding"
   },
   {
-    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1542679/qa-manager-business-developer",
-    "job_title": "QA Manager & Business Developer",
-    "company": "Jyske Bank",
-    "location": "Silkeborg"
-  },
-  {
     "detail_url": "https://www.it-jobbank.dk/jobannonce/h1542658/implementeringskonsulent",
     "job_title": "Implementeringskonsulent",
     "company": "Intempus",
     "location": "Højbjerg"
-  },
-  {
-    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1542626/project-manager-business-developer",
-    "job_title": "Project Manager / Business Developer",
-    "company": "Jyske Bank",
-    "location": "Silkeborg"
   },
   {
     "detail_url": "https://www.it-jobbank.dk/jobannonce/h1542605/administrativ-medarbejder-til-arbejdet-med-sikkerhedsgodkendelser-og-sekretariatsbetjening",
@@ -968,18 +926,6 @@
     "job_title": "Student Developer",
     "company": "Danish National Genome Center",
     "location": "Copenhagen"
-  },
-  {
-    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1542517/produktforvalter-til-borger-og-patientrettede-it-loesninger",
-    "job_title": "Produktforvalter til borger- og patientrettede it-løsninger",
-    "company": "Region Midtjylland",
-    "location": "Aarhus N"
-  },
-  {
-    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1542471/esdh-ansvarlig-med-udviklerkompetencer",
-    "job_title": "ESDH-ansvarlig med udviklerkompetencer",
-    "company": "Metroselskabet og Hovedstadens Letbane",
-    "location": "København S"
   },
   {
     "detail_url": "https://www.it-jobbank.dk/jobannonce/h1542429/solution-consultant-til-it-forum-gruppen",
@@ -1004,24 +950,6 @@
     "job_title": "IT-konsulent til MB Solutions",
     "company": "Leadr ApS  søger for MB Solutions A/S",
     "location": "København Ø"
-  },
-  {
-    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1542260/it-driftskonsulent-til-softwareudrulning-sccm-i-kriminalforsorgen",
-    "job_title": "It-driftskonsulent til softwareudrulning/SCCM i kriminalforsorgen",
-    "company": "Kriminalforsorgen",
-    "location": "København K"
-  },
-  {
-    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1542244/it-driftskonsulent-til-e-post-i-kriminalforsorgen",
-    "job_title": "It-driftskonsulent til e-post i kriminalforsorgen",
-    "company": "Kriminalforsorgen",
-    "location": "København K"
-  },
-  {
-    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1542247/serviceminded-studentermedhjaelper-til-vores-it-support-kom-med-paa-vores-hold",
-    "job_title": "Serviceminded studentermedhjælper til vores IT-support – kom med på vores hold",
-    "company": "Danske Spil A/S",
-    "location": "Brøndby"
   },
   {
     "detail_url": "https://www.it-jobbank.dk/jobannonce/h1542082/technical-product-owner-retail-applications",
@@ -1082,12 +1010,6 @@
     "job_title": "Techlead til meningsfyldt arbejde i kulturelt hus",
     "company": "Gyldendal A/S",
     "location": "København K"
-  },
-  {
-    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1541600/it-projektleder-til-erp-udrulningsprojekt-med-base-i-viby-j",
-    "job_title": "It-projektleder til ERP-udrulningsprojekt med base i Viby J",
-    "company": "Per Aarsleff A/S",
-    "location": "Viby J"
   },
   {
     "detail_url": "https://www.it-jobbank.dk/jobannonce/h1514563/studiejob-som-familietekniker",
@@ -1210,34 +1132,16 @@
     "location": "Vejle"
   },
   {
-    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1540604/cyberkoordinator",
-    "job_title": "Cyberkoordinator",
-    "company": "Envafors A/S",
-    "location": "Slagelse"
-  },
-  {
     "detail_url": "https://www.it-jobbank.dk/jobannonce/h1540585/senior-net-udvikler",
     "job_title": "Senior .Net-udvikler",
     "company": "Bloom  søger for Forenede Gruppeliv",
     "location": "Valby"
   },
   {
-    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1540525/software-engineer-for-engine-applications",
-    "job_title": "Software Engineer for Engine Applications",
-    "company": "MAN Energy Solutions",
-    "location": "Copenhagen"
-  },
-  {
     "detail_url": "https://www.it-jobbank.dk/jobannonce/h1532484/ignite-graduate-program-2025",
     "job_title": "IGNITE Graduate Program 2025",
     "company": "Capgemini Danmark A/S",
     "location": "Vallensbæk or Viby J"
-  },
-  {
-    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1540461/performance-marketing-specialist",
-    "job_title": "Performance Marketing Specialist",
-    "company": "KMD A/S",
-    "location": "Ballerup"
   },
   {
     "detail_url": "https://www.it-jobbank.dk/jobannonce/h1540208/iam-enterprise-architect",
@@ -1276,30 +1180,6 @@
     "location": "København, Aarhus eller Aalborg"
   },
   {
-    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1540112/ux-ui-designer-til-digitale-produkt-teams",
-    "job_title": "UX/UI Designer til digitale produkt teams",
-    "company": "SEGES Innovation",
-    "location": "Aarhus N"
-  },
-  {
-    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1540070/communication-marketing-training-hr-student-assistant-talent-pipeline",
-    "job_title": "Communication, Marketing, Training & HR - Student Assistant Talent Pipeline",
-    "company": "Novo Nordisk A/S",
-    "location": "Bagsværd"
-  },
-  {
-    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1540067/engineering-business-support-student-assistant-talent-pipeline",
-    "job_title": "Engineering & Business Support - Student Assistant Talent Pipeline",
-    "company": "Novo Nordisk A/S",
-    "location": "Bagsværd"
-  },
-  {
-    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1540064/it-digitalisation-student-assistant-talent-pipeline",
-    "job_title": "IT & Digitalisation - Student Assistant Talent Pipeline",
-    "company": "Novo Nordisk A/S",
-    "location": "Bagsværd"
-  },
-  {
     "detail_url": "https://www.it-jobbank.dk/jobannonce/h1539955/serviceminded-it-supporter-med-specialisering-i-microsoft-365",
     "job_title": "Serviceminded IT-supporter med specialisering i Microsoft 365",
     "company": "AkademikerPension",
@@ -1312,69 +1192,9 @@
     "location": "Vejle"
   },
   {
-    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1539870/it-digitalisation-internship-talent-pipeline",
-    "job_title": "IT & Digitalisation - Internship Talent Pipeline",
-    "company": "Novo Nordisk A/S",
-    "location": "Bagsværd"
-  },
-  {
-    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1539868/engineering-business-support-internship-talent-pipeline",
-    "job_title": "Engineering & Business Support - Internship Talent Pipeline",
-    "company": "Novo Nordisk A/S",
-    "location": "Bagsværd"
-  },
-  {
-    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1539866/communication-marketing-training-hr-internship-talent-pipeline",
-    "job_title": "Communication, Marketing, Training & HR -  Internship Talent Pipeline",
-    "company": "Novo Nordisk A/S",
-    "location": "Bagsværd"
-  },
-  {
-    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1539775/studenterprogrammoer",
-    "job_title": "Studenterprogrammør",
-    "company": "Ivaldi ApS",
-    "location": "Aarhus C"
-  },
-  {
-    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1539761/ambitioes-applikationssupporter-til-cgm-helpdesk",
-    "job_title": "Ambitiøs applikationssupporter til CGM Helpdesk",
-    "company": "CompuGroup Medical Denmark A/S",
-    "location": "Aarhus N"
-  },
-  {
-    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1539533/qa-patch-manager-til-central-rolle-i-digital-robusthed-og-sikkerhed",
-    "job_title": "QA/Patch Manager til central rolle i Digital Robusthed og Sikkerhed",
-    "company": "Jyske Bank",
-    "location": "Silkeborg"
-  },
-  {
-    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1530617/senior-test-manager",
-    "job_title": "Senior Test Manager",
-    "company": "Cognizant Technology Solutions Denmark ApS",
-    "location": "Copenhagen"
-  },
-  {
-    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1530613/sr-functional-architect-sap",
-    "job_title": "Sr. Functional Architect - SAP",
-    "company": "Cognizant Technology Solutions Denmark ApS",
-    "location": "Copenhagen"
-  },
-  {
-    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1530608/test-architect",
-    "job_title": "Test Architect",
-    "company": "Cognizant Technology Solutions Denmark ApS",
-    "location": "Copenhagen"
-  },
-  {
     "detail_url": "https://www.it-jobbank.dk/jobannonce/h1538733/dygtig-it-konsulent-med-speciale-i-m365",
     "job_title": "Dygtig IT-konsulent med speciale i M365",
     "company": "Simple Solution IT A/S",
     "location": "Køge"
-  },
-  {
-    "detail_url": "https://www.it-jobbank.dk/jobannonce/h1539078/graduate-it-udvikler-til-selvbetjening-bolig",
-    "job_title": "Graduate, IT-udvikler til Selvbetjening Bolig",
-    "company": "Jyske Bank",
-    "location": "København V"
   }
 ]
