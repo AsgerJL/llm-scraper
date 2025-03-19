@@ -16,8 +16,7 @@ This project is a web scraping pipeline that extracts job listings and contact d
 
 ### **1. Clone the repository**
 ```sh
-git clone <your-repo-url>
-cd <your-repo-name>
+git clone https://github.com/AsgerJL/llm-scraper
 ```
 
 ### **2. Install dependencies (Recommended: `uv`)**
