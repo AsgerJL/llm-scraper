@@ -38,7 +38,7 @@ uv pip install crawl4ai
 ### **4. Run `crawl4ai` setup**
 Initialize `crawl4ai` by running:
 ```sh
-uv crawl4ai-setup
+uv run crawl4ai-setup
 ```
 This command will:
 - Install or update required Playwright browsers (Chromium, Firefox, etc.).
@@ -48,7 +48,7 @@ This command will:
 ### **5. Verify the installation**
 Optionally, run diagnostics to confirm everything is functioning:
 ```sh
-uv crawl4ai-doctor
+uv run crawl4ai-doctor
 ```
 This command will:
 - Check Python version compatibility.
@@ -57,27 +57,32 @@ This command will:
 
 If any issues arise, follow the suggestions provided and re-run `crawl4ai-setup`.
 
-### **6. Set up environment variables**
+### **6. Set up environment variables & dir**
 Create a `.env` file and add your OpenAI API key:
 ```
 OPENAI_API_KEY=your-api-key-here
+```
+
+Create a directory for your output files:
+```sh
+mkdir -p scraped-data
 ```
 
 ## **Usage**
 To execute the full crawler pipeline, run the complete-crawler script:
 
 ```sh
-uv python complete-crawler.py
+uv run complete-crawler.py
 ```
 
 Alternatively run the individual scripts:
 1. **Run the job crawler to collect job listings**
    ```sh
-   uv python crawl.py
+   uv run crawl.py
    ```
 2. **Extract contact details from job ads**
    ```sh
-   uv python crawl-llm.py
+   uv run crawl-llm.py
    ```
 
 ## **Output Files**
