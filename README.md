@@ -33,13 +33,13 @@ pip install -r requirements.txt
 ### **3. Install `crawl4ai`**
 After installing the dependencies, install `crawl4ai`:
 ```sh
-pip install crawl4ai
+uv pip install crawl4ai
 ```
 
 ### **4. Run `crawl4ai` setup**
 Initialize `crawl4ai` by running:
 ```sh
-crawl4ai-setup
+uv crawl4ai-setup
 ```
 This command will:
 - Install or update required Playwright browsers (Chromium, Firefox, etc.).
@@ -49,7 +49,7 @@ This command will:
 ### **5. Verify the installation**
 Optionally, run diagnostics to confirm everything is functioning:
 ```sh
-crawl4ai-doctor
+uv crawl4ai-doctor
 ```
 This command will:
 - Check Python version compatibility.
@@ -65,8 +65,13 @@ OPENAI_API_KEY=your-api-key-here
 ```
 
 ## **Usage**
-I also use `uv` to run the scripts for faster execution:
+To execute the full crawler pipeline, run the complete-crawler script:
 
+```sh
+uv python complete-crawler.py
+```
+
+Alternatively run the individual scripts:
 1. **Run the job crawler to collect job listings**
    ```sh
    uv python crawl.py
